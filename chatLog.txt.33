@@ -1,0 +1,8 @@
+Sep 14, 2014 11:29:37 AM server.Server runServer
+INFO: Sever started
+Sep 14, 2014 11:30:01 AM server.Server runServer
+INFO: Connected to a client
+Sep 14, 2014 11:30:02 AM server.Server runServer
+INFO: Connected to a client
+Sep 14, 2014 11:30:04 AM server.ClientHandler run
+INFO: Received the message: HEJ 

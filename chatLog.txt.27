@@ -1,0 +1,16 @@
+Sep 13, 2014 7:19:38 PM server.Server runServer
+INFO: Sever started
+Sep 13, 2014 7:19:43 PM server.Server runServer
+INFO: Connected to a client
+Sep 13, 2014 7:19:45 PM server.ClientHandler run
+INFO: Received the message: ZXC 
+Sep 13, 2014 7:19:45 PM server.ClientHandler run
+INFO: Received the message: ZXC 
+Sep 13, 2014 7:19:57 PM server.ClientHandler run
+SEVERE: Socket timed out
+java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1540)
+	at server.ClientHandler.run(ClientHandler.java:46)
+
+Sep 13, 2014 7:19:57 PM server.ClientHandler run
+INFO: Closed a Connection
